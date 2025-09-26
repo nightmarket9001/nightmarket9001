@@ -1,0 +1,30 @@
+{
+  "name": "premier-event-planning",
+  "version": "1.0.0",
+  "description": "A modern event planning website with interactive features and responsive design",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server .",
+    "dev": "npx live-server . --port=3000",
+    "build": "echo 'Build process not needed for static site'",
+    "preview": "npx live-server . --port=8080"
+  },
+  "keywords": [
+    "event-planning",
+    "website",
+    "html",
+    "css",
+    "javascript",
+    "responsive"
+  ],
+  "author": "Event Planning Team",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/premier-event-planning.git"
+  },
+  "homepage": "https://yourusername.github.io/premier-event-planning"
+}
